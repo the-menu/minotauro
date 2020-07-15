@@ -112,7 +112,7 @@ header::after {
 
 .main-img {
 	margin-top: 15px;
-	max-height: 75px;
+	max-height: 100px;
 	max-width: 100%;
 	display: block;
 	margin-left: auto;
