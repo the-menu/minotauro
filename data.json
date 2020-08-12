@@ -65,7 +65,8 @@
 "tapas": {
 			"name": ["Tapas Extra", "Extra Tapa"],
 			"image": "tapas-extra-portada.jpg",
-			"items": ["beicon-extra", "lomo-extra", "burger-vacuno-extra", "serrano-extra", "tortilla-extra", "setas-extra", "moruno-extra", "chorizo-extra", "calamares-extra"]
+			"items": ["beicon-extra", "lomo-extra", "burger-vacuno-extra", "serrano-extra", "tortilla-extra", "setas-extra", "moruno-extra", "chorizo-extra", "calamares-extra"],
+			"info": ["Nuestras <a href=\"#/section/bebidas\">bebidas</a> vienen acompañadas de una tapa gratis a elegir.", "Our <a href=\"#/section/bebidas\">drinks</a> are served with a free tapa to choose."]
 		},
 		"bocadillos": {
 			"name": ["Roscas y Bocadillos", "King Bagels and Sandwiches"],
@@ -1699,3 +1700,4 @@
 		}
 	}
 }
+
