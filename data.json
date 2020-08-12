@@ -65,8 +65,7 @@
 "tapas": {
 			"name": ["Tapas Extra", "Extra Tapa"],
 			"image": "tapas-extra-portada.jpg",
-			"items": ["beicon-extra", "lomo-extra", "burger-vacuno-extra", "serrano-extra", "tortilla-extra", "setas-extra", "moruno-extra", "chorizo-extra"],
-			"info": ["Nuestras <a href=\"#/section/bebidas\">bebidas</a> vienen acompañadas de una tapa gratis. Máximo dos variedades por mesa.", "Our drinks are served with one free tapa. Two varieties maximum per table."]
+			"items": ["beicon-extra", "lomo-extra", "burger-vacuno-extra", "serrano-extra", "tortilla-extra", "setas-extra", "moruno-extra", "chorizo-extra", "calamares-extra"]
 		},
 		"bocadillos": {
 			"name": ["Roscas y Bocadillos", "King Bagels and Sandwiches"],
@@ -169,7 +168,7 @@
 			"description": ["", ""]
 		},
 		"desayuno-habas": {
-			"name": ["Eggs and Beans", "Eggs and Beans"],
+			"name": ["Habas con Huevos", "Eggs and Beans"],
 			"price": 3.75,
 			"missing": "huevos-portada.jpg",
 			"allergens": [],
@@ -654,7 +653,7 @@
 		"batidos": {
 			"name": ["Batidos", "Milkshakes"],
 			"price": 2.3,
-			"image": "cafes-portada.jpg",
+			"missing": "cafes-portada.jpg",
 			"filters": [],
 			"allergens": [],
 			"description": ["", ""]
@@ -853,7 +852,7 @@
 		"fritas": {
 			"name": ["Patatas Fritas con Huevo", "French Fries with egg"],
 			"price": 7.5,
-			"image": "huevos-portada.jpg",
+			"missing": "huevos-portada.jpg",
 			"filters": ["vegetarian"],
 			"allergens": ["huevos", "lacteos", "gluten"],
 			"description": ["Prueba nuestras deliciosas patatas fritas con huevo", "Try our delicious french fries with egg."]
@@ -925,7 +924,7 @@
 		"calamares-combi": {
 			"name": ["Calamares Fritos", "Fried Squid"],
 			"price": 9.5,
-			"image": "calamares-fritos.jpg",
+			"missing": "calamares-fritos.jpg",
 			"filters": [],
 			"allergens": ["pescado", "lacteos", "gluten"],
 			"description": ["Delicioso calamares fritos acompañados de patatas fritas o ensalada.", "Delicious fried squid served with either french fries or salad."]
@@ -1596,6 +1595,14 @@
 			"filters": [],
 			"allergens": ["lacteos", "gluten"],
 			"description": ["Pincho de chorizo frito acompañado de patatas fritas.", "Fried chorizo skewers served with crisps."]
+		},
+		"calamares-extra": {
+			"name": ["Calamares", "Fried Squid Tapa"],
+			"price": 1.5,
+			"image": "calamares-fritos.jpg",
+			"filters": [],
+			"allergens": ["pescado", "lacteos", "gluten"],
+			"description": ["Deliciosos calamares fritos.", "Delicious fried squid."]
 		},
 		"lomo-iberico": {
 			"name": ["Lomo Ibérico", "Iberian Pork Loin"],
