@@ -20,7 +20,7 @@
 			"info": []
 		},
 		"huevos": {
-			"name": ["Huevos", "Huevos"],
+			"name": ["Huevos Desayuno", "Breakfast Eggs"],
 			"image": "huevos-portada.jpg",
 			"items": ["desayuno-francesa", "desayuno-española", "desayuno-revueltos", "desayuno-setas", "desayuno-patatas", "desayuno-beicon", "desayuno-jamon", "desayuno-habas"]
 		},
@@ -142,7 +142,7 @@
 			"description": ["", ""]
 		},
 		"desayuno-patatas": {
-			"name": ["Huevos Rotos con Patatas", "Broken Eggs with Potatoes"],
+			"name": ["Huevos Revueltos con Patatas", "Scrambled Eggs with Potatoes"],
 			"price": 4.5,
 			"missing": "huevos-portada.jpg",
 			"allergens": [],
@@ -1527,6 +1527,7 @@
 			"allergens": ["lacteos", "gluten"],
 			"description": ["Plato de nuestras deliciosas setas a la plancha.", "Platter of our delicious grilled mushrooms."]
 		},
+
 		"lomo-iberico": {
 			"name": ["Lomo Ibérico", "Iberian Pork Loin"],
 			"prices": [4.70, 13.50],
